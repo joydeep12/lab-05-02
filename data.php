@@ -4,7 +4,7 @@
 $servername = '34.66.64.61';
 $username = 'root';
 $password = '1234';
-$database = 'inventory-db';
+$database = 'inventory';
 $table = 'products';
 
 // Create connection
